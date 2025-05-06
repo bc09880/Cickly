@@ -8,8 +8,8 @@
 **Cickly** es un script de productividad que ejecuta automáticamente las aplicaciones que elijas al iniciar sesión en Linux.
 Una solución rápida y ligera para evitar tener que entrar en configuraciones del sistema o escribir múltiples comandos cada vez que inicias tu equipo.
 
-> ⚡ Versión 2.0 completamente renovada.
-> 🧪 Probado en distribuciones **Debian** y **Arch Linux**.
+> - ⚡ Versión 2.0 completamente renovada.
+> - 🧪 Probado en distribuciones **Debian** y **Arch Linux**.
 
 ---
 
